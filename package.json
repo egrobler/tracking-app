@@ -1,0 +1,11 @@
+{
+  "name": "tracking-app",
+  "version": "1.0.0",
+  "description": "Basic App that will eventually use React, Redux, Firebase,etc.",
+  "main": "app.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "author": "E Grobler",
+  "license": "ISC"
+}
